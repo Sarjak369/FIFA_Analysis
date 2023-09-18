@@ -2,16 +2,11 @@
 
 ## FIFA players & team analysis
 
-This project focuses to analyze the FIFA dataset for different players and teams, and to come up up interesting insights in the form of visualizations. 
+This project focuses on analyzing the FIFA dataset for different players and teams and coming up with exciting insights in visualizations.
 
-I have 2 datasets, for the years 2015 and 2022 respectively. I have used Python for the initial data analysis part. 
-The initial Fifa 22 dataset has 19239 rows and 110 columns.
-The Fifa 15 dataset has 16156 rows and 110 columns.
-The reason for this discrepancy is that a lot of new players got added in the last 7 years, which makes the Fifa 22 dataset bigger.
+I have two datasets for the years 2015 and 2022, respectively. I have used Python for the initial data analysis part. The initial FIFA 22 dataset has 19239 rows and 110 columns. The FIFA 15 dataset has 16156 rows and 110 columns. This discrepancy is because many new players were added in the last seven years, which makes the FIFA 22 dataset bigger.
 
-Firstly, I cleaned the data & transform some key variables into appropriate data types using customized functions, and then I drop some irrelevant variables . 
-Further, I go ahead to project the final dataset on Tableau for visualizations. I've used MS Excel to ensure data accuracy & quality using pivot tables and conditional formatting for ad-hoc analysis.
-Lastly, I have created 31 visualizations, 6 dashboards & 2 stories.
+Firstly, I cleaned the data, transformed key variables into appropriate data types using customized functions, and then dropped some irrelevant variables. Further, I project the final dataset on Tableau for visualizations. I've used MS Excel to ensure data accuracy quality using pivot tables and conditional formatting for ad-hoc analysis. Lastly, I have created 31 visualizations, six dashboards, and two stories.
 
 
 <img width="483" alt="image" src="https://github.com/Sarjak369/FIFA_Analysis/assets/56110199/e050efef-56d6-456c-8157-52eede9af53d">
